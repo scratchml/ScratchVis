@@ -1,0 +1,5 @@
+A simple visualizer for ScratchML over OSC. The red line maps to scratching done on the right record and the blue line maps to scratching done on the left record (if available, otherwise it mirrors the red line).
+
+When the fader hits full left or full right you get particles that fly onto the screen and when they settle in the middle they fit to the waveform of the input audio.
+
+Uses oscP5 and minim.
